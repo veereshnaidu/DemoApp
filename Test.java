@@ -3,7 +3,7 @@ public class Test{
 		System.out.println("This is Test Program");
 }
  public int add(int a, int b){
-//test 
+System.out.println("Testing...."); 
  return a+b;
  }
 }
