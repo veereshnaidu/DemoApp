@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Testing text file
+=======
+This is just for testing
+I'm testing now reset , stash, pull -r
+>>>>>>> Stashed changes
